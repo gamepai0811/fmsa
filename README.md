@@ -1,3 +1,4 @@
+## Introduction
 The code repository is for the paper "Efficient Feature Fusion for UAV Object Detection".
 
 Citations:
@@ -8,8 +9,19 @@ Citations:
   year={2025}
 }
 
-
 The features of the paper is added on top of YOLO-v10.  Please refer to https://github.com/THU-MIG/yolov10.
+
+Model:
+![image](https://github.com/user-attachments/assets/8b47d704-fe1e-4d84-8489-24ca7912d2c8)
+
+FMSA:
+![image](https://github.com/user-attachments/assets/97dec717-971f-424f-b49f-4f9bdebb175c)
+
+FDS:
+![image](https://github.com/user-attachments/assets/23a5bc67-5661-47ac-991c-934a39b9b6bf)
+
+FUS:
+![image](https://github.com/user-attachments/assets/453dfab3-f14f-47f2-9289-f3f2a0bed643)
 
 
 ## Installation
