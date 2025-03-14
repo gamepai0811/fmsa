@@ -26,7 +26,9 @@ pip install einops
 ```
 
 ## Training
+```
 python tony_train.py
+```
 
 
 ## Our features
