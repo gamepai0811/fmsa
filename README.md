@@ -44,11 +44,15 @@ Thanks for the great implementations!
 ## Citation
 If our code or models help your work, please cite our paper:
 ```
-@article{wang2025efficient,
-  title={Efficient Feature Fusion for UAV Object Detection},
-  author={Wang, Xudong and Shen, Chaomin and Peng, Yaxin},
-  journal={arXiv preprint arXiv:2501.17983},
-  year={2025}
-}
+@INPROCEEDINGS{11228926,
+  author={Wang, Xudong and Peng, Yaxin and Shen, Chaomin},
+  booktitle={2025 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Efficient Feature Fusion for UAV Object Detection}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Location awareness;YOLO;Cross layer design;Accuracy;Object detection;Autonomous aerial vehicles;Feature extraction;Transformers;Robustness;Spatial resolution;UAV Object Detection;Imbalance Between Classification and Localization},
+  doi={10.1109/IJCNN64981.2025.11228926}}
 ```
 
